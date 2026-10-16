@@ -1,0 +1,42 @@
+KLD-Diagram-Editor/
+├── index.html
+├── style.css
+├── app.js
+└── assets/
+    └── icons/
+        ├── impressora-termica.png
+        ├── servidor-dell-t430.png
+        ├── roteador-tplink-branco.png
+        ├── impressora-epson.png
+        ├── roteador-linkone.png
+        ├── roteador-intelbras-hotspot.png
+        ├── conversor-aligera.png
+        ├── celular-x850.png
+        ├── roteador-tplink-3antenas.png
+        ├── roteador-tplink-4antenas.png
+        ├── maquininha-cielo.png
+        ├── computador-win7.png
+        ├── computador-gamer.png
+        ├── conversor-miljet.png
+        ├── impressora-multifuncional.png
+        ├── servidor-dell-t320.png
+        ├── servidor-dell-torres.png
+        ├── impressora-hp-compacta.png
+        ├── impressora-hp-laserjet.png
+        ├── switch-dlink-24p.png
+        ├── impressora-hp-color.png
+        ├── iphone.png
+        ├── roteador-mikrotik.png
+        ├── desktop-dell.png
+        ├── notebook-dell-latitude.png
+        ├── mini-pc-dell.png
+        ├── notebook-dell-vostro.png
+        ├── pabx-siemens.png
+        ├── rack-siemens.png
+        ├── maquininha-henry.png
+        ├── switch-24p-generico.png
+        ├── switch-poe-8p.png
+        ├── switch-tenda-8p.png
+        ├── switch-amp-24p.png
+        ├── switch-tenda-5p.png
+        └── roteador-tplink-arquitetura.png

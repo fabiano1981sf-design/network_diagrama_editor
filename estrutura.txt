@@ -1,0 +1,8 @@
+📁 diagrama-editor/
+│
+├── 📄 index.html          ← Interface do editor
+├── 📄 style.css           ← Estilos
+├── 📄 app.js              ← Lógica do editor
+│
+└── 📁 assets/
+    └── (opcional: imagens reais dos dispositivos)
